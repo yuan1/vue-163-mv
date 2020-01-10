@@ -1,5 +1,12 @@
 # vue-163-mv
 
+后端使用 https://github.com/Binaryify/NeteaseCloudMusicApi.git
+
+UI使用 https://github.com/ElemeFE/element
+
+下载使用 aria2，也可以自己根据url 显示下载框
+
+
 ## Project setup
 ```
 npm install
